@@ -1,0 +1,22 @@
+body{
+  font-family: 'K2D', sans-serif;
+  background-color: #e8871e;
+  font-size: 30px;
+}
+
+div{
+  display: block;
+  background-color: #edb458;
+  text-align: center;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+table{
+  background-color: #e8871e;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
